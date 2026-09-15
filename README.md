@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AbhishekHP2016/AbhishekHP2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
